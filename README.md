@@ -1,5 +1,8 @@
-Hey, I'm Ghillie. 
-I'm a teenage beginner developer focasing on java and javascript.
-Currently I'm working on a Discord.js bot called Avid, If you want more info join my discord server :)
-🔗Discord server: https://discord.gg/StSa3jDMT9
-🔗Website: https://ghilliee.xyz
+Hi, I'm ghillie.
+
+Web Developer @ [Nizon](https://nizon.xyz)
+Web/js Developer @ [Avid](https://avids.xyz)
+
+- ghillie#0001
+- [ghilliee.xyz](https://ghilliee.xyz) , [/discord](https://ghilliee.xyz/socials/discord)
+
