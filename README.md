@@ -8,6 +8,6 @@ Learning JS/Web/Lua
 
 Working on OPW
 
-``js
+```js
 console.log("this is the end of my profile")
-``
+```
