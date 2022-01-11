@@ -6,7 +6,7 @@ Learning JS/Web/Lua
 
 > [ghilliee.xyz](https://ghilliee.xyz) , [/discord](https://ghilliee.xyz/s/discord)
 
-Working on OPW
+Working on OPW, Avid and my own discord bots.
 
 ```js
 console.log("this is the end of my profile")
